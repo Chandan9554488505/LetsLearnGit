@@ -1,0 +1,4 @@
+this is my first git practic set. my name is chandan singh. i am a java developer as well as a student.
+10+20=30
+this is my calculation.
+am working in prozo distributed pvt ltd....
